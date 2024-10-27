@@ -6,11 +6,6 @@ The Campus Recruitment Stewardship project is a C#-based application designed to
 
 Key Features:
 
-
-
-https://github.com/user-attachments/assets/5ad230c4-b287-4fb0-b51e-c1d8ec62f387
-
-
 #Student Registration and Profile Management:
 
      Students can create and manage their profiles, including personal details, academic records, and resumes.
@@ -19,3 +14,4 @@ https://github.com/user-attachments/assets/5ad230c4-b287-4fb0-b51e-c1d8ec62f387
 
 Recruiters can post job opportunities, specifying required qualifications and job descriptions.
 The application sends notifications by the companies who were to eligible based on their profiles.
+
